@@ -18,7 +18,7 @@ Vidaas Agent is a Python library designed to simplify interactions with the VIDa
 You can install VidaasAgent using pip:
 
 ```bash
-pip install vidaas_agent
+pip install git+https://github.com/afmaster/vidaas_agent.git
 ```
 ## Use
 URIs for Valid PSC.

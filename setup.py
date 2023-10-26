@@ -8,7 +8,7 @@ setup(
     description='Uma biblioteca Python para interagir com a API VIDaaS',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/seu_usuario/VIDaaS_signer',
+    url='https://github.com/afmaster/vidaas_agent',
     packages=find_packages(),
     install_requires=[
         'certifi==2023.7.22',
