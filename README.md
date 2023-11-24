@@ -27,6 +27,8 @@ Production: https://certificado.vidaas.com.br
 
 This is the only one recommended. Including for tests.
 
+Whe have added a function in utils/encryption for code_challenge and code_verifier, as outlined in RFC 7636 and required in the VIDaaS authentication proccess.
+
 
 ## API Documentation 
 Link to the full API documentation for users who want more detailed information:
